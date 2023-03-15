@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Czołówka",
+    "category": ["mountains", "bicycle", "skitour"]
+  },
+  {
+    "id": 2,
+    "name": "Apteczka",
+    "category": ["mountains", "bicycle", "skitour"]
+  },
+  {
+    "id": 3,
+    "name": "Kask",
+    "category": ["bicycle", "skitour"]
+  },
+  {
+    "id": 4,
+    "name": "Pompka",
+    "category": ["bicycle"]
+  },
+  {
+    "id": 5,
+    "name": "Tools bike",
+    "category": ["bicycle"]
+  },
+  {
+    "id": 6,
+    "name": "Scyzoryk",
+    "category": ["mountains", "bicycle", "skitour"]
+  },
+  {
+    "id": 7,
+    "name": "Kije",
+    "category": ["mountains", "skitour"]
+  },
+  {
+    "id": 8,
+    "name": "Narty",
+    "category": ["skitour"]
+  },
+  {
+    "id": 9,
+    "name": "kurtka goretex",
+    "category": ["mountains", "skitour"]
+  }
+]
